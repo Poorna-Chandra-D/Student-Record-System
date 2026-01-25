@@ -118,4 +118,6 @@ For any queries or support, please open an issue in the repository.
 
 ---
 
-
+<div align="center">
+Made with ❤️ for Educational Institutions
+</div>
