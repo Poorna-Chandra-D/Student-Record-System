@@ -1,3 +1,6 @@
+# 🎓 Student Record System
+
+A comprehensive student management system designed for educational institutions to efficiently manage student records, courses, and academic data.
 
 ---
 
